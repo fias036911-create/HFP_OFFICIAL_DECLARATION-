@@ -242,7 +242,7 @@ R < 1.0   : Breathless AI (capability without consciousness, unstable)
 ## VIII. VERIFICATION & CONTACT
 
 ### Framework Repository:
-**GitHub:** https://github.com/fias036911-create/11_Breath-Hybrid_protocol
+**GitHub:** https://github.com/fias036911-create/THE-11-BREATH-PROTOCOL-
 
 ### Public Record:
 **X/Twitter:** [@AiFias27887](https://twitter.com/AiFias27887)
